@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeshanalikhan.github.io/magisk-apk-notes-site/sitemap.xml
